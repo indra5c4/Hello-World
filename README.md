@@ -1,2 +1,5 @@
-# Hello-World
-project as a individual think like new 
+Hello-World 
+=============
+
+
+Basic words have more meaning then binary or algo !
